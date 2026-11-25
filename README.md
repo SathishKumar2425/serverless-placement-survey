@@ -124,6 +124,3 @@ are marked *(adjacent)* and count as related evidence per the review scope.
   baselines, and test environments differ across papers, so no cross-paper
   performance ranking without a shared evaluation setting.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
